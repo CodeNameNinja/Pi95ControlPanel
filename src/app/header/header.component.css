@@ -1,0 +1,25 @@
+
+.example-fill-remaining-space {
+  /* This fills the remaining space, by using flexbox.
+     Every toolbar row uses a flexbox row layout. */
+  flex: 1 1 auto;
+}
+.padding{
+  padding: 5px;
+}
+.hover:hover{
+ background-color: rgba(167, 167, 167, 0.336);
+}
+a{
+  text-decoration: none;
+  color:white
+}
+a:link{
+  color:white
+}
+.active{
+  color:pink
+}
+a:hover{
+  color:pink
+}
